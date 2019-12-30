@@ -117,8 +117,6 @@ wp_enqueue_script('vue_wordpress.js', get_template_directory_uri() . '/dist/vue-
 
 By default, routing works as defined in Settings > Permalinks. You can even define a custom structure.
 
-![Settings > Permalinks Screenshot](http://vue-wordpress.com/wp-content/uploads/2019/02/vue-wordpress.com_wp-admin_options-permalink.php_.png)
-
 ✔️ 'Day and Name' `/%monthnum%/%day%/%postname%/`
 
 ✔️ 'Month and Name' `/%year%/%monthnum%/%day%/%postname%/`
